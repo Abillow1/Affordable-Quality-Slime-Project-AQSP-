@@ -44,3 +44,21 @@ Other: $1.30 per 500 trackers
 (*https://www.aliexpress.us/item/2251832779311798.html?spm=a2g0o.cart.0.0.40767a9dhPQyeY&mp=1&_gl=1*1yijdl2*_gcl_au*MTE0NTQ3NjQzOS4xNzMyODk4MzA2*_ga*MTM2ODQ5MDE3Mi4xNzMyODQxNzAw*_ga_VED1YSGNC7*MTczMzAwMTI5OC42LjEuMTczMzAwNzk0Ni42MC4wLjA.&gatewayAdapt=glo2usa*)
 
 (*https://www.aliexpress.us/item/2251832779311798.html?spm=a2g0o.cart.0.0.40767a9dhPQyeY&mp=1&_gl=1*1yijdl2*_gcl_au*MTE0NTQ3NjQzOS4xNzMyODk4MzA2*_ga*MTM2ODQ5MDE3Mi4xNzMyODQxNzAw*_ga_VED1YSGNC7*MTczMzAwMTI5OC42LjEuMTczMzAwNzk0Ni42MC4wLjA.&gatewayAdapt=glo2usa*)
+
+
+
+All Rights Reserved
+
+THE CONTENTS OF THIS PROJECT ARE PROPRIETARY AND CONFIDENTIAL.
+UNAUTHORIZED COPYING, TRANSFERRING OR REPRODUCTION OF THE CONTENTS OF THIS PROJECT, VIA ANY MEDIUM IS STRICTLY PROHIBITED.
+
+The receipt or possession of the source code and/or any parts thereof does not convey or imply any right to use them
+for any purpose other than the purpose for which they were provided to you.
+
+The project is provided "AS IS", without warranty of any kind, express or implied, including but not limited to
+the warranties of merchantability, fitness for a particular purpose and non infringement.
+In no event shall the authors or copyright holders be liable for any claim, damages or other liability,
+whether in an action of contract, tort or otherwise, arising from, out of or in connection with the project
+or the use or other dealings in the project.
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the project.
