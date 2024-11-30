@@ -10,7 +10,7 @@
 - Total manufacturing cost of $4 or less
 - Easy manufacturing and small size
 
-# Possible ideas:
+# Possible Ideas:
 
 - AA-style battery and battery charging dock, for reduced cost (Goal cost: $10/dock | Dock must have 5 ports, with a 10 port model)
 - Consider a more expensive LSM6DSV model
@@ -45,7 +45,7 @@ Other: $1.30 per 500 trackers
 
 (*https://www.aliexpress.us/item/2251832779311798.html?spm=a2g0o.cart.0.0.40767a9dhPQyeY&mp=1&_gl=1*1yijdl2*_gcl_au*MTE0NTQ3NjQzOS4xNzMyODk4MzA2*_ga*MTM2ODQ5MDE3Mi4xNzMyODQxNzAw*_ga_VED1YSGNC7*MTczMzAwMTI5OC42LjEuMTczMzAwNzk0Ni42MC4wLjA.&gatewayAdapt=glo2usa*)
 
-
+# Copyright Notice
 
 All Rights Reserved
 
