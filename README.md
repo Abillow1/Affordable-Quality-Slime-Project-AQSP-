@@ -15,3 +15,8 @@
 - AA-style battery and battery charging dock, for reduced cost (Goal cost: $10/dock | Dock must have 5 ports, with a 10 port model)
 
 - A Raspberry PI or similar based WIFI router for easy 2.4Ghz wifi, for LAN only. (Goal cost: $10 +WIFI dongle)
+
+
+# Development
+
+Currently, this project has no physical development. A initial prototype is projected by next month.
