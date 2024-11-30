@@ -21,9 +21,9 @@
 
 # Development
 
-Currently, this project has no physical development. A initial prototype is projected by next month.
+**Currently, this project has no physical development. A initial prototype is projected by next month.**
 
-Estimated prototype cost: $6 per tracker per batch, batch size of 500
+*Estimated prototype cost: $6 per tracker per batch, batch size of 500*
 
 Battery: YDL 18650 battery, $0.90 each for 500, 2000mAh 
 
