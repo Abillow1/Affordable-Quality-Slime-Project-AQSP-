@@ -23,10 +23,12 @@ Currently, this project has no physical development. A initial prototype is proj
 
 Estimated prototype cost: $6 per tracker per batch, batch size of 500
 
-Battery: YDL 18650 battery, $0.90 each for 500, 2000mAh (**https://ydlbattery.com/products/3-7v-18650-battery-pack**)
+Battery: YDL 18650 battery, $0.90 each for 500, 2000mAh 
 Sensor: BMI270, $0.9663 each for 500
-Battery Charging Chip: TP4056 Lithium Battery Charger Module, $18.61 per 100 (**https://www.aliexpress.us/item/2251832779311798.html?spm=a2g0o.cart.0.0.40767a9dhPQyeY&mp=1&_gl=1*1yijdl2*_gcl_au*MTE0NTQ3NjQzOS4xNzMyODk4MzA2*_ga*MTM2ODQ5MDE3Mi4xNzMyODQxNzAw*_ga_VED1YSGNC7*MTczMzAwMTI5OC42LjEuMTczMzAwNzk0Ni42MC4wLjA.&gatewayAdapt=glo2usa**)
-Microcontroler: D1 mini, $149 / 100 (**https://www.aliexpress.us/item/2251832779311798.html?spm=a2g0o.cart.0.0.40767a9dhPQyeY&mp=1&_gl=1*1yijdl2*_gcl_au*MTE0NTQ3NjQzOS4xNzMyODk4MzA2*_ga*MTM2ODQ5MDE3Mi4xNzMyODQxNzAw*_ga_VED1YSGNC7*MTczMzAwMTI5OC42LjEuMTczMzAwNzk0Ni42MC4wLjA.&gatewayAdapt=glo2usa**)
+Battery Charging Chip: TP4056 Lithium Battery Charger Module, $18.61 per 100 
+Microcontroler: D1 mini, $149 / 100 
 Other: $1.30 
 
-
+(*https://ydlbattery.com/products/3-7v-18650-battery-pack*)
+(*https://www.aliexpress.us/item/2251832779311798.html?spm=a2g0o.cart.0.0.40767a9dhPQyeY&mp=1&_gl=1*1yijdl2*_gcl_au*MTE0NTQ3NjQzOS4xNzMyODk4MzA2*_ga*MTM2ODQ5MDE3Mi4xNzMyODQxNzAw*_ga_VED1YSGNC7*MTczMzAwMTI5OC42LjEuMTczMzAwNzk0Ni42MC4wLjA.&gatewayAdapt=glo2usa*)
+(*https://www.aliexpress.us/item/2251832779311798.html?spm=a2g0o.cart.0.0.40767a9dhPQyeY&mp=1&_gl=1*1yijdl2*_gcl_au*MTE0NTQ3NjQzOS4xNzMyODk4MzA2*_ga*MTM2ODQ5MDE3Mi4xNzMyODQxNzAw*_ga_VED1YSGNC7*MTczMzAwMTI5OC42LjEuMTczMzAwNzk0Ni42MC4wLjA.&gatewayAdapt=glo2usa*)
