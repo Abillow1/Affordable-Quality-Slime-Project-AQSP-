@@ -37,7 +37,7 @@ Microcontroler: D1 mini, $149 / 100
 
 ^^ *Goal cost of $1 per tracker* ^^
 
-Other: $1.30 
+Other: $1.30 per 500 trackers
 
 (*https://ydlbattery.com/products/3-7v-18650-battery-pack*)
 
