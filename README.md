@@ -1,5 +1,4 @@
 # Affordable Quality Slime Project (AQSP)
-# **GOAL HIT, Functionality Test Requiered**
 
 **Main Goal:** A slime tracker using a BMI270 sensor, 18650 battery, and including straps for at or under $7.50 each, with a goal of $5 each.
 
@@ -21,6 +20,7 @@
 ^^ *Possibly important for many quest users who do not have networking knowlage* ^^
 
 # Development
+    GOAL HIT, Functionality Test Requiered. PCB Redesign planed to make smaller. Case Design needed.
 
 **Currently, this project has no physical development. A initial prototype is projected by next month.**
 
