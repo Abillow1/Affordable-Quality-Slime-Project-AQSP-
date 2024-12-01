@@ -30,9 +30,9 @@
     
 **Current PCB Prototype**
 
-![image](https://github.com/user-attachments/assets/a5671ec9-a469-416d-b98d-8c0212b8159a)
+![image](https://github.com/user-attachments/assets/bc874f15-a194-45c6-9313-dde934122907)
 
-![image](https://github.com/user-attachments/assets/2ca64822-bfd2-4a59-bb98-7c83bfebb1d0)
+![image](https://github.com/user-attachments/assets/43f6232c-5b66-4e61-b3f0-fe205702ec02)
 
 *Estimated prototype cost: $4.90 per tracker per batch, batch size of 500*
 
@@ -50,13 +50,17 @@ Microcontroler: D1 mini, $149 / 100
 
 ^^ *Goal cost of $1 per tracker* ^^
 
-Other: $1.30 per 500 trackers
+Other: $100 per 500 trackers
 
 (*https://ydlbattery.com/products/3-7v-18650-battery-pack*)
 
 (*https://www.aliexpress.us/item/2251832779311798.html?spm=a2g0o.cart.0.0.40767a9dhPQyeY&mp=1&_gl=1*1yijdl2*_gcl_au*MTE0NTQ3NjQzOS4xNzMyODk4MzA2*_ga*MTM2ODQ5MDE3Mi4xNzMyODQxNzAw*_ga_VED1YSGNC7*MTczMzAwMTI5OC42LjEuMTczMzAwNzk0Ni42MC4wLjA.&gatewayAdapt=glo2usa*)
 
 (*https://www.aliexpress.us/item/2251832779311798.html?spm=a2g0o.cart.0.0.40767a9dhPQyeY&mp=1&_gl=1*1yijdl2*_gcl_au*MTE0NTQ3NjQzOS4xNzMyODk4MzA2*_ga*MTM2ODQ5MDE3Mi4xNzMyODQxNzAw*_ga_VED1YSGNC7*MTczMzAwMTI5OC42LjEuMTczMzAwNzk0Ni42MC4wLjA.&gatewayAdapt=glo2usa*)
+
+(https://www.lcsc.com/product-detail/Rocker-Switches_SHOU-HAN-KCD11-2P_C5884412.html)
+
+(https://www.lcsc.com/product-detail/Schottky-Diodes_LGE-1N5817_C7544876.html)
 
 # Copyright Notice
 
