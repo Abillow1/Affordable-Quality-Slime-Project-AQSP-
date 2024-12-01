@@ -4,23 +4,37 @@
 
 **Reason:** This would allow many users of VR to be able to get FBT (Full Body Tracking), letting people have better experiences in VR for a low cost.
 
+# **Projected Specs**
+- ~20 hours play time
+- ~3 hour charge time (*projected*)
+- 69mm long, 27mm wide, 22mm thick
+- Satisfying and easy rocker power switch
+- USB-C charging
+
+
 # Side Goals: (1/3 Achieved)
 
-- Goal of 2 PCB's or less, integrating the sensor and charging chip onto the main PCB **[** Currently: 3 PCB's **]**
+- Goal of 2 PCB's or less, integrating the sensor and charging chip onto the main PCB **[** Currently: 3 PCB's + 1 switch **]**
 - Total manufacturing cost of $4 or less **[** Currently: ~$5 **]**
-- Easy manufacturing and small size ***Achieved***
-
+- Easy manufacturing and small size ***Partially Achieved***
+  
 # Possible Ideas:
 
 - AA-style battery and battery charging dock for the 18650 battery, for reduced cost (Goal cost: $10/dock | Dock must have 5 ports, with a 10 port model for $17.50)
 - Consider a more expensive LSM6DSV model
 - Possibly sell accessories for a profit
-- A Raspberry PI or similar based Plug and Play WIFI router for easy 2.4Ghz wifi, for LAN only. (Goal cost: $10 +WIFI dongle) ***HIGH PRIORITY***
+- A Raspberry PI or similar based Plug and Play WIFI router for easy 2.4Ghz wifi, for LAN only. (Goal cost: $20 +WIFI dongle) ***HIGH PRIORITY***
   
 ^^ *Possibly important for many quest users who do not have networking knowlage* ^^
 
-# Physical Development
+# TO-DO
+- Update case design to mold around the battery
+- Update BOM
+- Get PCB prototype & test
+- Design PnP LAN router
+- Make this Readme file look nice
 
+# Physical Development
 
 **Currently, this project has no physical development. A initial prototype is projected by next month.**
 
@@ -36,7 +50,7 @@
 
 *Estimated prototype cost: $4.90 per tracker per batch, batch size of 500*
 
-# BOM
+# BOM (NEEDS UPDATING)
 
 Battery: YDL 18650 battery, $0.90 each for 500, 2000mAh 
 
