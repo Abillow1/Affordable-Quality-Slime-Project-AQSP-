@@ -32,7 +32,7 @@
 
 ![image](https://github.com/user-attachments/assets/a5671ec9-a469-416d-b98d-8c0212b8159a)
 
-![image](https://github.com/user-attachments/assets/43c8bef8-8199-4f6b-86c6-06cc7b53dd79)
+![image](https://github.com/user-attachments/assets/2ca64822-bfd2-4a59-bb98-7c83bfebb1d0)
 
 *Estimated prototype cost: $4.90 per tracker per batch, batch size of 500*
 
