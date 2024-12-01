@@ -33,6 +33,7 @@
 - Get PCB prototype & test
 - Design PnP LAN router
 - Make this Readme file look nice
+- Make open source
 
 # Physical Development
 
