@@ -4,27 +4,39 @@
 
 **Reason:** This would allow many users of VR to be able to get FBT (Full Body Tracking), letting people have better experiences in VR for a low cost.
 
-# Side Goals:
+# Side Goals: (1/3 Achieved)
 
-- Goal of 2 PCB's or less, integrating the sensor and charging chip onto the main PCB
-- Total manufacturing cost of $4 or less
-- Easy manufacturing and small size
+- Goal of 2 PCB's or less, integrating the sensor and charging chip onto the main PCB **[** Currently: 3 PCB's **]**
+- Total manufacturing cost of $4 or less **[** Currently: ~$5 **]**
+- Easy manufacturing and small size ***Achieved***
 
 # Possible Ideas:
 
-- AA-style battery and battery charging dock, for reduced cost (Goal cost: $10/dock | Dock must have 5 ports, with a 10 port model)
+- AA-style battery and battery charging dock for the 18650 battery, for reduced cost (Goal cost: $10/dock | Dock must have 5 ports, with a 10 port model for $17.50)
 - Consider a more expensive LSM6DSV model
 - Possibly sell accessories for a profit
-- A Raspberry PI or similar based WIFI router for easy 2.4Ghz wifi, for LAN only. (Goal cost: $10 +WIFI dongle)
+- A Raspberry PI or similar based Plug and Play WIFI router for easy 2.4Ghz wifi, for LAN only. (Goal cost: $10 +WIFI dongle) ***HIGH PRIORITY***
   
 ^^ *Possibly important for many quest users who do not have networking knowlage* ^^
 
-# Development
-    GOAL HIT, Functionality Test Requiered. PCB redesigned, now smaller and efficcent. Case Design needed.
+# Physical Development
+
 
 **Currently, this project has no physical development. A initial prototype is projected by next month.**
 
+# Digitial Development
+
+    GOAL HIT, Functionality Test Requiered. PCB redesigned, now smaller and efficcent. Case Design needed.
+    
+**Current PCB Prototype**
+
+![image](https://github.com/user-attachments/assets/a5671ec9-a469-416d-b98d-8c0212b8159a)
+
+![image](https://github.com/user-attachments/assets/43c8bef8-8199-4f6b-86c6-06cc7b53dd79)
+
 *Estimated prototype cost: $4.90 per tracker per batch, batch size of 500*
+
+# BOM
 
 Battery: YDL 18650 battery, $0.90 each for 500, 2000mAh 
 
@@ -54,7 +66,7 @@ THE CONTENTS OF THIS PROJECT ARE PROPRIETARY AND CONFIDENTIAL.
 UNAUTHORIZED COPYING, TRANSFERRING OR REPRODUCTION OF THE CONTENTS OF THIS PROJECT, VIA ANY MEDIUM IS STRICTLY PROHIBITED.
 
 The receipt or possession of the source code and/or any parts thereof does not convey or imply any right to use them
-for any purpose other than the purpose for which they were provided to you.
+for any purpose other than the purpose for which they were provided to you. This project is being provided for INFORMAL PURPOSES ONLY.
 
 The project is provided "AS IS", without warranty of any kind, express or implied, including but not limited to
 the warranties of merchantability, fitness for a particular purpose and non infringement.
