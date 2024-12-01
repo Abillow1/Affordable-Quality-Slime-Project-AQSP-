@@ -45,9 +45,11 @@
     
 **Current PCB Prototype**
 
-![image](https://github.com/user-attachments/assets/bc874f15-a194-45c6-9313-dde934122907)
+v![image](https://github.com/user-attachments/assets/e7a61292-d96a-4990-b391-18ee283f659a)
 
-![image](https://github.com/user-attachments/assets/43f6232c-5b66-4e61-b3f0-fe205702ec02)
+
+![image](https://github.com/user-attachments/assets/e2173e16-2dd3-44a4-b0cc-ac390330bdfd)
+
 
 *Estimated prototype cost: $4.90 per tracker per batch, batch size of 500*
 
