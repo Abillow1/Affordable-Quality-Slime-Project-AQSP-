@@ -1,8 +1,6 @@
-# Affordable Quality Slime Project (AQSP)
+# Affordable Quality Slime Project (AQSP) **GOAL HIT, Functionality Test Requiered**
 
 **Main Goal:** A slime tracker using a BMI270 sensor, 18650 battery, and including straps for at or under $7.50 each, with a goal of $5 each.
-
-**GOAL HIT, Functionality Test Requiered**
 
 **Reason:** This would allow many users of VR to be able to get FBT (Full Body Tracking), letting people have better experiences in VR for a low cost.
 
@@ -29,7 +27,7 @@
 
 Battery: YDL 18650 battery, $0.90 each for 500, 2000mAh 
 
-^^ *Goal cost of $0.80 per tracker* ^^
+^^ *Goal cost of $0.80 per tracker* ^^ 
 
 Sensor: BMI270, $0.9663 each for 500
 
