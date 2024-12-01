@@ -7,7 +7,7 @@
 # **Projected Specs**
 - ~20 hours play time
 - ~3 hour charge time (*projected*)
-- 69mm long, 27mm wide, 22mm thick
+- 69mm long, 27mm wide (might change), ~27mm thick (TBD)
 - Satisfying and easy rocker power switch
 - USB-C charging
 
@@ -40,7 +40,7 @@
 
 # Digitial Development
 
-    GOAL HIT, Functionality Test Requiered. PCB redesigned, now smaller and efficcent. Case Design needed.
+    Functionality Test Requiered. PCB redesigned, now smaller and efficcent. Case Design in progress.
     
 **Current PCB Prototype**
 
