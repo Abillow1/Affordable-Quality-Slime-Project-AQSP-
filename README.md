@@ -20,7 +20,7 @@
 ^^ *Possibly important for many quest users who do not have networking knowlage* ^^
 
 # Development
-    GOAL HIT, Functionality Test Requiered. PCB Redesign planed to make smaller. Case Design needed.
+    GOAL HIT, Functionality Test Requiered. PCB redesigned, now smaller and efficcent. Case Design needed.
 
 **Currently, this project has no physical development. A initial prototype is projected by next month.**
 
