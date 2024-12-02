@@ -47,6 +47,8 @@ The main goal of this project is to develop a as low as possible BMI270-based FB
 # Digitial Development
 
     Functionality Test Requiered. PCB prototyped, now smaller and efficcent. Case Design prototyped.
+
+*For those who are having a hard time finding the releases, here is the link: https://github.com/Abillow1/Affordable-Quality-Slime-Project-AQSP-/releases/*
     
 **Current PCB Prototype**
 
