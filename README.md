@@ -7,22 +7,26 @@ The main goal of this project is to develop a as low as possible BMI270-based FB
 # **Projected Specs**
 - ~20 hours play time
 - ~3 hour charge time (*projected*)
-- 69mm long, 27mm wide (might change), ~27mm thick (TBD)
-- Satisfying and easy rocker power switch
+- 69mm long, 29mm wide (might change), ~36mm thick (TBD)
 - USB-C charging
+- 20m wide straps
+- Weight unknown, appx. ~175g
 
 
 # Side Goals: (1/3 Achieved)
 
-- Goal of 2 PCB's or less, integrating the sensor and charging chip onto the main PCB **[** Currently: 3 PCB's + 1 switch **]**
+- Goal of 2 PCB's or less, integrating the sensor and charging chip onto the main PCB **[** Currently: 3 PCB's **]**
+ 
+  ^^*may be scrapped as it is cheaper to keep seperate*^^
 - Total manufacturing cost of $4 or less **[** Currently: ~$5 **]**
 - Easy manufacturing and small size ***Partially Achieved***
+
+  ^^Restrictive due to 18650 battery^^
   
 # Possible Ideas:
 
-- AA-style battery and battery charging dock for the 18650 battery, for reduced cost (Goal cost: $10/dock | Dock must have 5 ports, with a 10 port model for $17.50)
-- Consider a more expensive LSM6DSV model
-- Possibly sell accessories for a profit
+- ~~AA-style battery and battery charging dock for the 18650 battery, for reduced cost (Goal cost: $10/dock | Dock must have 5 ports, with a 10 port model for $17.50)~~ **SCRAPPED**
+
 - A Raspberry PI or similar based Plug and Play WIFI router for easy 2.4Ghz wifi, for LAN only. (Goal cost: $20 +WIFI dongle) ***HIGH PRIORITY***
   
 ^^ *Possibly important for many quest users who do not have networking knowlage* ^^
@@ -42,7 +46,7 @@ The main goal of this project is to develop a as low as possible BMI270-based FB
 
 # Digitial Development
 
-    Functionality Test Requiered. PCB redesigned, now smaller and efficcent. Case Design in progress.
+    Functionality Test Requiered. PCB prototyped, now smaller and efficcent. Case Design prototyped.
     
 **Current PCB Prototype**
 
