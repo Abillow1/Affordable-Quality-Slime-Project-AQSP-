@@ -1,3 +1,5 @@
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Abillow1/Affordable-Quality-Slime-Project-AQSP-/tree/main">The Affordable Quality Slime Project (AQSP)</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/Abillow1">Abillow</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
+
 # Affordable Quality Slime Project (AQSP)
 
 The main goal of this project is to develop a as low as possible BMI270-based FBT tracker. This tracker is to be sold for $7.50 or less, with straps included. This would allow most users of VR to buy FBT, and have a better experience in VR. On the seccond hand, this tracker would serve as a gateway product for users to get involved with Slime, increasing support and passively making some users gain a interest to the inner-workings of it, making select users encouraged to learn about circuitry and more.
@@ -52,21 +54,3 @@ The main goal of this project is to develop a as low as possible BMI270-based FB
 # BOM
 
 [BOM_Affordable-Quality-Slime-Project-(AQSP)_2024-12-01.csv](https://github.com/user-attachments/files/17971755/BOM_Affordable-Quality-Slime-Project-.AQSP._2024-12-01.csv)
-
-# Copyright Notice
-
-All Rights Reserved
-
-THE CONTENTS OF THIS PROJECT ARE PROPRIETARY AND CONFIDENTIAL.
-UNAUTHORIZED COPYING, TRANSFERRING OR REPRODUCTION OF THE CONTENTS OF THIS PROJECT, VIA ANY MEDIUM IS STRICTLY PROHIBITED.
-
-The receipt or possession of the source code and/or any parts thereof does not convey or imply any right to use them
-for any purpose other than the purpose for which they were provided to you. This project is being provided for INFORMAL PURPOSES ONLY.
-
-The project is provided "AS IS", without warranty of any kind, express or implied, including but not limited to
-the warranties of merchantability, fitness for a particular purpose and non infringement.
-In no event shall the authors or copyright holders be liable for any claim, damages or other liability,
-whether in an action of contract, tort or otherwise, arising from, out of or in connection with the project
-or the use or other dealings in the project.
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the project.
