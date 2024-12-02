@@ -54,7 +54,7 @@ The main goal of this project is to develop a as low as possible BMI270-based FB
 
 ![image](https://github.com/user-attachments/assets/57a601a9-571c-4ad8-bcb5-1d78167b06d2)
 
-*Estimated prototype cost: $4.75 per tracker per batch, batch size of 500*
+*Estimated prototype cost: ~$4.50942 +-$0.50 per tracker per batch, batch size of 500*
 
 # BOM
 
