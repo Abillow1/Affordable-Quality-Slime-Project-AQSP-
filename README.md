@@ -27,7 +27,7 @@ The main goal of this project is to develop a as low as possible BMI270-based FB
 
 # TO-DO
 - Update case design to mold around the battery
-- Update BOM
+- ~~Update BOM~~
 - Get PCB prototype & test
 - Design PnP LAN router
 - Make this Readme file look nice
@@ -49,31 +49,9 @@ The main goal of this project is to develop a as low as possible BMI270-based FB
 
 *Estimated prototype cost: $4.75 per tracker per batch, batch size of 500*
 
-# BOM (NEEDS UPDATING)
+# BOM
 
-Battery: YDL 18650 battery, $0.90 each for 500, 2000mAh 
-
-^^ *Goal cost of $0.80 per tracker* ^^ 
-
-Sensor: BMI270, $0.9663 each for 500
-
-Battery Charging Chip: TP4056 Lithium Battery Charger Module, $18.61 per 100 
-
-Microcontroler: D1 mini, $149 / 100 
-
-^^ *Goal cost of $1 per tracker* ^^
-
-Other: $100 per 500 trackers
-
-(*https://ydlbattery.com/products/3-7v-18650-battery-pack*)
-
-(*https://www.aliexpress.us/item/2251832779311798.html?spm=a2g0o.cart.0.0.40767a9dhPQyeY&mp=1&_gl=1*1yijdl2*_gcl_au*MTE0NTQ3NjQzOS4xNzMyODk4MzA2*_ga*MTM2ODQ5MDE3Mi4xNzMyODQxNzAw*_ga_VED1YSGNC7*MTczMzAwMTI5OC42LjEuMTczMzAwNzk0Ni42MC4wLjA.&gatewayAdapt=glo2usa*)
-
-(*https://www.aliexpress.us/item/2251832779311798.html?spm=a2g0o.cart.0.0.40767a9dhPQyeY&mp=1&_gl=1*1yijdl2*_gcl_au*MTE0NTQ3NjQzOS4xNzMyODk4MzA2*_ga*MTM2ODQ5MDE3Mi4xNzMyODQxNzAw*_ga_VED1YSGNC7*MTczMzAwMTI5OC42LjEuMTczMzAwNzk0Ni42MC4wLjA.&gatewayAdapt=glo2usa*)
-
-(https://www.lcsc.com/product-detail/Rocker-Switches_SHOU-HAN-KCD11-2P_C5884412.html)
-
-(https://www.lcsc.com/product-detail/Schottky-Diodes_LGE-1N5817_C7544876.html)
+[BOM_Affordable-Quality-Slime-Project-(AQSP)_2024-12-01.csv](https://github.com/user-attachments/files/17971755/BOM_Affordable-Quality-Slime-Project-.AQSP._2024-12-01.csv)
 
 # Copyright Notice
 
