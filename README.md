@@ -65,19 +65,19 @@ The main goal of this project is to develop a as low as possible BMI270-based FB
 
 [BOM_Affordable-Quality-Slime-Project-(AQSP)_2024-12-01.csv](https://github.com/user-attachments/files/17971755/BOM_Affordable-Quality-Slime-Project-.AQSP._2024-12-01.csv)
 
-**RECCOMMENDED ITEMS**
+**RECCOMMENDED ITEMS (not included in BOM file)**
 
 Straps, BE SURE TO SELECT 20mm OPTION, get 300m-350m/500 trackers: https://www.aliexpress.us/item/3256804831776576.html?spm=a2g0o.cart.0.0.3af838da7LiSkD&mp=1&_gl=1*1utlh2*_gcl_aw*R0NMLjE3MzMwOTQ0NDMuQ2p3S0NBaUFqS3U2QmhBTUVpd0F4NFVzQWpaOUJMZkE0a19GMEZ5V1YyQklDZzFYNkxwUEFFcEh1TWpNQ1Y5cV9wR01paEl3N2JEVVdob0NjWjRRQXZEX0J3RQ..*_gcl_dc*R0NMLjE3MzMwOTQ0NDMuQ2p3S0NBaUFqS3U2QmhBTUVpd0F4NFVzQWpaOUJMZkE0a19GMEZ5V1YyQklDZzFYNkxwUEFFcEh1TWpNQ1Y5cV9wR01paEl3N2JEVVdob0NjWjRRQXZEX0J3RQ..*_gcl_au*MTQ1NDI1NDgyNC4xNzMzMDMxMjI2*_ga*MTc2NzI3MjcwNTIyNzExMS4xNzMzMDIzMDc1NzA1*_ga_VED1YSGNC7*MTczMzE3OTAwNC42LjEuMTczMzE3OTQ4NC41OS4wLjA.&gatewayAdapt=glo2usa
 
 Charging boards: https://www.aliexpress.us/item/3256807657111049.html?spm=a2g0o.cart.0.0.3af838da7LiSkD&mp=1&_gl=1*1utlh2*_gcl_aw*R0NMLjE3MzMwOTQ0NDMuQ2p3S0NBaUFqS3U2QmhBTUVpd0F4NFVzQWpaOUJMZkE0a19GMEZ5V1YyQklDZzFYNkxwUEFFcEh1TWpNQ1Y5cV9wR01paEl3N2JEVVdob0NjWjRRQXZEX0J3RQ..*_gcl_dc*R0NMLjE3MzMwOTQ0NDMuQ2p3S0NBaUFqS3U2QmhBTUVpd0F4NFVzQWpaOUJMZkE0a19GMEZ5V1YyQklDZzFYNkxwUEFFcEh1TWpNQ1Y5cV9wR01paEl3N2JEVVdob0NjWjRRQXZEX0J3RQ..*_gcl_au*MTQ1NDI1NDgyNC4xNzMzMDMxMjI2*_ga*MTc2NzI3MjcwNTIyNzExMS4xNzMzMDIzMDc1NzA1*_ga_VED1YSGNC7*MTczMzE3OTAwNC42LjEuMTczMzE3OTQ4NC41OS4wLjA.&gatewayAdapt=glo2usa
 
-D1 MINI; MICRO USB reccommended: https://www.aliexpress.us/item/2251832779311798.html?spm=a2g0o.cart.0.0.3af838da7LiSkD&mp=1&_gl=1*y3nkhp*_gcl_aw*R0NMLjE3MzMwOTQ0NDMuQ2p3S0NBaUFqS3U2QmhBTUVpd0F4NFVzQWpaOUJMZkE0a19GMEZ5V1YyQklDZzFYNkxwUEFFcEh1TWpNQ1Y5cV9wR01paEl3N2JEVVdob0NjWjRRQXZEX0J3RQ..*_gcl_dc*R0NMLjE3MzMwOTQ0NDMuQ2p3S0NBaUFqS3U2QmhBTUVpd0F4NFVzQWpaOUJMZkE0a19GMEZ5V1YyQklDZzFYNkxwUEFFcEh1TWpNQ1Y5cV9wR01paEl3N2JEVVdob0NjWjRRQXZEX0J3RQ..*_gcl_au*MTQ1NDI1NDgyNC4xNzMzMDMxMjI2*_ga*MTc2NzI3MjcwNTIyNzExMS4xNzMzMDIzMDc1NzA1*_ga_VED1YSGNC7*MTczMzE3OTAwNC42LjEuMTczMzE3OTU2MS42MC4wLjA.&gatewayAdapt=glo2usa
+D1 MINI; MICRO USB recommended: https://www.aliexpress.us/item/2251832779311798.html?spm=a2g0o.cart.0.0.3af838da7LiSkD&mp=1&_gl=1*y3nkhp*_gcl_aw*R0NMLjE3MzMwOTQ0NDMuQ2p3S0NBaUFqS3U2QmhBTUVpd0F4NFVzQWpaOUJMZkE0a19GMEZ5V1YyQklDZzFYNkxwUEFFcEh1TWpNQ1Y5cV9wR01paEl3N2JEVVdob0NjWjRRQXZEX0J3RQ..*_gcl_dc*R0NMLjE3MzMwOTQ0NDMuQ2p3S0NBaUFqS3U2QmhBTUVpd0F4NFVzQWpaOUJMZkE0a19GMEZ5V1YyQklDZzFYNkxwUEFFcEh1TWpNQ1Y5cV9wR01paEl3N2JEVVdob0NjWjRRQXZEX0J3RQ..*_gcl_au*MTQ1NDI1NDgyNC4xNzMzMDMxMjI2*_ga*MTc2NzI3MjcwNTIyNzExMS4xNzMzMDIzMDc1NzA1*_ga_VED1YSGNC7*MTczMzE3OTAwNC42LjEuMTczMzE3OTU2MS42MC4wLjA.&gatewayAdapt=glo2usa
 
 Battery; 18650 2000mAh, 1S pack: https://ydlbattery.com/products/3-7v-18650-battery-pack?variant=44262328664217
 
-*Choose your perfered 3D printer filimant(s)*
+*Choose your preferred 3D printer filament(s)*
 
-*Choose your perfered superglue*
+*Choose your preferred superglue*
 
 # Disclaimer of liability
 
