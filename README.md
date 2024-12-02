@@ -1,8 +1,6 @@
 # Affordable Quality Slime Project (AQSP)
 
-**Main Goal:** A slime tracker using a BMI270 sensor, 18650 battery, and including straps for at or under $7.50 each, with a goal of $5 each.
-
-**Reason:** This would allow many users of VR to be able to get FBT (Full Body Tracking), letting people have better experiences in VR for a low cost.
+The main goal of this project is to develop a as low as possible BMI270-based FBT tracker. This tracker is to be sold for $7.50 or less, with straps included. This would allow most users of VR to buy FBT, and have a better experience in VR. On the seccond hand, this tracker would serve as a gateway product for users to get involved with Slime, increasing support and passively making some users gain a interest to the inner-workings of it, making select users encouraged to learn about circuitry and more.
 
 # **Projected Specs**
 - ~20 hours play time
@@ -45,11 +43,9 @@
     
 **Current PCB Prototype**
 
-v![image](https://github.com/user-attachments/assets/e7a61292-d96a-4990-b391-18ee283f659a)
+![image](https://github.com/user-attachments/assets/4d292340-aa1c-492f-a96f-8b4325b07f66)
 
-
-![image](https://github.com/user-attachments/assets/e2173e16-2dd3-44a4-b0cc-ac390330bdfd)
-
+![image](https://github.com/user-attachments/assets/30591cd2-4700-48d6-9979-3fba415b2cb0)
 
 *Estimated prototype cost: $4.75 per tracker per batch, batch size of 500*
 
