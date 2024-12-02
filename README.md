@@ -28,12 +28,13 @@ The main goal of this project is to develop a as low as possible BMI270-based FB
 ^^ *Possibly important for many quest users who do not have networking knowlage* ^^
 
 # TO-DO
-- Update case design to mold around the battery
-- ~~Update BOM~~
+- ~~Update case design to mold around the battery~~
+- Update BOM (again)
 - Get PCB prototype & test
 - Design PnP LAN router
 - Make this Readme file look nice
-- Make open source
+- ~~Make open source~~
+- **Make Readme up to date**
 
 # Physical Development
 
