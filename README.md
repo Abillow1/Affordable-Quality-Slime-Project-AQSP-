@@ -50,11 +50,10 @@ The main goal of this project is to develop a as low as possible BMI270-based FB
     
 **Current PCB Prototype**
 
-![image](https://github.com/user-attachments/assets/b757ada9-21a0-4ff8-b078-a9b91e3817e5)
+![image](https://github.com/user-attachments/assets/f82e971e-c888-4d89-9c26-1b3d9ecb0b12)
 
-![image](https://github.com/user-attachments/assets/57a601a9-571c-4ad8-bcb5-1d78167b06d2)
+![image](https://github.com/user-attachments/assets/95965d41-8934-4a9f-a586-0960642d3886)
 
-*Estimated prototype cost: ~$4.50942 +-$0.50 per tracker per batch, batch size of 500*
 
 # BOM
 
