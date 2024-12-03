@@ -13,7 +13,7 @@ The main goal of this project is to develop a as low as possible BMI270-based FB
 - Weight unknown, appx. ~175g
 
 
-# Side Goals: (1/3 Achieved)
+# Side Goals: (2/2 Achieved)
 
 - Total manufacturing cost of $4 or less **[** Manufacturing cost is as low as reasonably possible **]**
 - Easy manufacturing and small size ***Achieved***
