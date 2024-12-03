@@ -2,7 +2,7 @@ Attribution File
 
 This file MUST be included in ALL VERSIONS, MODIFIED OR NOT, IN ACCORDANCE WITH THE CC BY-SA 4.0.
 
-If you sell this, you must include this in a printed form in every box containing a product from this.
+If you sell this, you must include this in a printed form in every box containing a product from this in a UNMODIFIED FORM. You may provide a translated document, if needed. You can use google translate to translate the document, but the translation input & output cannot be modified. The paper must be noticeable and readable, on top of the products. 
 
 ----------------------------------------------------
 
@@ -11,10 +11,11 @@ Thank you for supporting the Affordable Quality Slime Project (AQSP)!
 This project is being developed by Abillow. (As of 12-2-2024)
 
 This is a 100% OPEN SOURCE PROJECT and is licensed under the CC BY-SA 4.0!
-This means that you (yes, YOU!) can build it too! Or edit it!
+
+This means that you (yes, YOU!) can build it too! Or edit it to make it better! (or just to make it look cool!!)
 
 You can find this project here: https://github.com/Abillow1/Affordable-Quality-Slime-Project-AQSP-
 
-Oh, by the way, this is meant to cost $7.50 for each tracker. If it cost you more than that, something's fishy. 
+Oh, by the way, this is meant to cost $7.50 for each tracker. If it cost you more than that, something's fishy. (You may pay more for fast production, warranties, and more. Before getting mad, be sure to check what you paid for!!)
 
 Enjoy your new FBT set!!
