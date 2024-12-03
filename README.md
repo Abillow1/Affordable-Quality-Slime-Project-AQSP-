@@ -53,8 +53,6 @@ The main goal of this project is to develop a as low as possible LSM6DSOTR-based
 
 # BOM
 
-[BOM_Affordable-Quality-Slime-Project-(AQSP)_2024-12-01.csv](https://github.com/user-attachments/files/17971755/BOM_Affordable-Quality-Slime-Project-.AQSP._2024-12-01.csv)
-
 **RECCOMMENDED ITEMS (not included in BOM file)**
 
 Straps, BE SURE TO SELECT 20mm OPTION, get 300m-350m/500 trackers: https://www.aliexpress.us/item/3256804831776576.html?spm=a2g0o.cart.0.0.3af838da7LiSkD&mp=1&_gl=1*1utlh2*_gcl_aw*R0NMLjE3MzMwOTQ0NDMuQ2p3S0NBaUFqS3U2QmhBTUVpd0F4NFVzQWpaOUJMZkE0a19GMEZ5V1YyQklDZzFYNkxwUEFFcEh1TWpNQ1Y5cV9wR01paEl3N2JEVVdob0NjWjRRQXZEX0J3RQ..*_gcl_dc*R0NMLjE3MzMwOTQ0NDMuQ2p3S0NBaUFqS3U2QmhBTUVpd0F4NFVzQWpaOUJMZkE0a19GMEZ5V1YyQklDZzFYNkxwUEFFcEh1TWpNQ1Y5cV9wR01paEl3N2JEVVdob0NjWjRRQXZEX0J3RQ..*_gcl_au*MTQ1NDI1NDgyNC4xNzMzMDMxMjI2*_ga*MTc2NzI3MjcwNTIyNzExMS4xNzMzMDIzMDc1NzA1*_ga_VED1YSGNC7*MTczMzE3OTAwNC42LjEuMTczMzE3OTQ4NC41OS4wLjA.&gatewayAdapt=glo2usa
