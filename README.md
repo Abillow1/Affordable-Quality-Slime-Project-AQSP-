@@ -1,8 +1,8 @@
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Abillow1/Affordable-Quality-Slime-Project-AQSP-/tree/main">The Affordable Quality Slime Project (AQSP)</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/Abillow1">Abillow</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
 
-# Affordable Quality Slime Project (AQSP)
+# Affordable Quality Slime Project (AQSP) LSM6DSOTR Branch
 
-The main goal of this project is to develop a as low as possible BMI270-based FBT tracker. This tracker is to be sold for $7.50 or less, with straps included. This would allow most users of VR to buy FBT, and have a better experience in VR. On the seccond hand, this tracker would serve as a gateway product for users to get involved with Slime, increasing support and passively making some users gain a interest to the inner-workings of it, making select users encouraged to learn about circuitry and more.
+The main goal of this project is to develop a as low as possible LSM6DSOTR-based FBT tracker. This tracker is to be sold for $10.00 or less, with straps included. This would allow most users of VR to buy FBT, and have a better experience in VR. On the seccond hand, this tracker would serve as a gateway product for users to get involved with Slime, increasing support and passively making some users gain a interest to the inner-workings of it, making select users encouraged to learn about circuitry and more.
 
 # **Projected Specs**
 - ~20 hours play time
@@ -11,31 +11,29 @@ The main goal of this project is to develop a as low as possible BMI270-based FB
 - USB-C charging
 - 20m wide straps
 - Weight unknown, appx. ~175g
+- Higher quality tracking compaired to the BMI270 model
 
 
-# Side Goals: (2/2 Achieved)
+# Side Goals: (1/2 Achieved)
 
-- Total manufacturing cost of $4 or less **[** Manufacturing cost is as low as reasonably possible **]**
+- Total manufacturing cost of $7 or less 
 - Easy manufacturing and small size ***Achieved***
 
   ^^Restrictive due to 18650 battery^^
   
 # Possible Ideas:
 
-- ~~AA-style battery and battery charging dock for the 18650 battery, for reduced cost (Goal cost: $10/dock | Dock must have 5 ports, with a 10 port model for $17.50)~~ **SCRAPPED**
-
 - A Raspberry PI or similar based Plug and Play WIFI router for easy 2.4Ghz wifi, for LAN only. (Goal cost: $20 +WIFI dongle) ***CHECK FOR BRANCH, WIP***
   
 ^^ *Possibly important for many quest users who do not have networking knowlage* ^^
 
 # TO-DO
-- ~~Update case design to mold around the battery~~
-- ~~Update BOM (again)~~
-- Get PCB prototype & test
-- Design PnP LAN router -IN PROGRESS
-- Make this Readme file look nice
-- ~~Make open source~~
 
+- Make sure the LSM module is wired correctly
+- Initial testing
+- PCB A1 release
+- Make this Readme file look nice
+  
 # Physical Development
 
 **Currently, this project has no physical development. A initial prototype is projected some time next month.**
@@ -48,9 +46,9 @@ The main goal of this project is to develop a as low as possible BMI270-based FB
     
 **Current PCB Prototype**
 
-![image](https://github.com/user-attachments/assets/f82e971e-c888-4d89-9c26-1b3d9ecb0b12)
-
-![image](https://github.com/user-attachments/assets/95965d41-8934-4a9f-a586-0960642d3886)
+![image](https://github.com/user-attachments/assets/e7abd7ac-37a4-4fb9-ae70-965554ab6c14)
+![image](https://github.com/user-attachments/assets/b4d9599f-3e13-44fb-9f15-2eea74d62d77)
+![image](https://github.com/user-attachments/assets/ae300892-730d-4670-8ab3-275cbeda6417)
 
 
 # BOM
