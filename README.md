@@ -38,7 +38,7 @@ The main goal of this project is to develop a as low as possible BMI270-based FB
 
 # Physical Development
 
-**Currently, this project has no physical development. A initial prototype is projected some time next month.**
+**PROTOTYPE MODEL B1 ORDERED, EXPECTED IN 20 DAYS (AROUND CHRISTMAS)**
 
 # Digitial Development
 
