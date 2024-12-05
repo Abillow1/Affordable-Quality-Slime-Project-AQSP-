@@ -48,9 +48,10 @@ The main goal of this project is to develop a as low as possible BMI270-based FB
     
 **Current PCB Prototype**
 
-![image](https://github.com/user-attachments/assets/f82e971e-c888-4d89-9c26-1b3d9ecb0b12)
-
-![image](https://github.com/user-attachments/assets/95965d41-8934-4a9f-a586-0960642d3886)
+![image](https://github.com/user-attachments/assets/cf9b5601-8b2a-416a-bc5b-f644a28d9505)
+![image](https://github.com/user-attachments/assets/baeab556-4007-40cc-a619-0743da9aecb9)
+![image](https://github.com/user-attachments/assets/397b2fda-e432-40b7-a281-36a4b6910370)
+![image](https://github.com/user-attachments/assets/2f6a14ab-0253-40a9-8a59-6c4e24795fd0)
 
 
 # BOM
