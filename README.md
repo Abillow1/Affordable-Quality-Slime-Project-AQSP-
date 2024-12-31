@@ -20,26 +20,12 @@ The main goal of this project is to develop a as low as possible BMI270-based FB
 - Easy manufacturing and small size ***Achieved***
 
   ^^Restrictive due to 18650 battery^^
-  
-# Possible Ideas:
-
-- ~~AA-style battery and battery charging dock for the 18650 battery, for reduced cost (Goal cost: $10/dock | Dock must have 5 ports, with a 10 port model for $17.50)~~ **SCRAPPED**
-
-- A Raspberry PI or similar based Plug and Play WIFI router for easy 2.4Ghz wifi, for LAN only. (Goal cost: $20 +WIFI dongle) ***CHECK FOR BRANCH, WIP***
-  
-^^ *Possibly important for many quest users who do not have networking knowlage* ^^
 
 # TO-DO
-- ~~Update case design to mold around the battery~~
-- ~~Update BOM (again)~~
+
 - Get PCB prototype & test
 - Design PnP LAN router -IN PROGRESS
 - Make this Readme file look nice
-- ~~Make open source~~
-
-# Physical Development
-
-**PROTOTYPE MODEL B1 ORDERED, EXPECTED IN 20 DAYS (AROUND CHRISTMAS)**
 
 # Digitial Development
 
@@ -49,11 +35,11 @@ The main goal of this project is to develop a as low as possible BMI270-based FB
     
 **Current PCB Prototype**
 
-![image](https://github.com/user-attachments/assets/cf9b5601-8b2a-416a-bc5b-f644a28d9505)
-![image](https://github.com/user-attachments/assets/baeab556-4007-40cc-a619-0743da9aecb9)
-![image](https://github.com/user-attachments/assets/397b2fda-e432-40b7-a281-36a4b6910370)
-![image](https://github.com/user-attachments/assets/2f6a14ab-0253-40a9-8a59-6c4e24795fd0)
+![image](https://github.com/user-attachments/assets/d1a680cc-fd67-49c9-83de-13861678d938)
+![image](https://github.com/user-attachments/assets/254099e4-3b11-4e0e-9a7f-5794e79e857c)
+![image](https://github.com/user-attachments/assets/7fe52742-a1e7-4e25-8298-521a5613f274)
 
+LSM6DO modle development will be put here soon, but it may be scrapped as it is simular to the BMI270. 
 
 # BOM
 
