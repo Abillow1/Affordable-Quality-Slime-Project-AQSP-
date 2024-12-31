@@ -41,7 +41,7 @@ The main goal of this project is to develop a as low as possible BMI270-based FB
 
 LSM6DO modle development will be put here soon, but it may be scrapped as it is simular to the BMI270. 
 
-# BOM
+# BOM (OUT OF DATE)
 
 [BOM_Affordable-Quality-Slime-Project-(AQSP)_2024-12-01.csv](https://github.com/user-attachments/files/17971755/BOM_Affordable-Quality-Slime-Project-.AQSP._2024-12-01.csv)
 
