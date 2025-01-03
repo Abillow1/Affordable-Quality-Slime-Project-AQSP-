@@ -4,7 +4,6 @@
 
 The main goal of this project is to develop a as low as possible BMI270-based FBT tracker. This tracker is to be sold for $7.50 or less, with straps included. This would allow most users of VR to buy FBT, and have a better experience in VR. On the seccond hand, this tracker would serve as a gateway product for users to get involved with Slime, increasing support and passively making some users gain a interest to the inner-workings of it, making select users encouraged to learn about circuitry and more.
 
-## Hey, a critical issue was found. It Is being worked on. This issue renders ALL RELEASES AND MODELS UNUSABLE AND DEFECTIVE, so, dont produce them. If you already did, sorry. 
 # **Projected Specs**
 - ~20 hours play time
 - ~3 hour charge time (*projected*)
@@ -38,8 +37,6 @@ The main goal of this project is to develop a as low as possible BMI270-based FB
 ![image](https://github.com/user-attachments/assets/d1a680cc-fd67-49c9-83de-13861678d938)
 ![image](https://github.com/user-attachments/assets/254099e4-3b11-4e0e-9a7f-5794e79e857c)
 ![image](https://github.com/user-attachments/assets/7fe52742-a1e7-4e25-8298-521a5613f274)
-
-LSM6DO modle development will be put here soon, but it may be scrapped as it is simular to the BMI270. 
 
 # BOM (OUT OF DATE)
 
