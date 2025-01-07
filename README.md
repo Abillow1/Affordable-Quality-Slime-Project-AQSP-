@@ -28,20 +28,15 @@ The main goal of this project is to develop a as low as possible BMI270-based FB
 
 # Digitial Development
 
-    Functionality Test Requiered. PCB prototyped in Kicad. Case design needed. Considering experimenting by mutting the D1 mini under the charging board for smaller size.
+    Functionality Test Requiered. PCB prototyped, now smaller and efficcent. Case Design prototyped.
 
 *For those who are having a hard time finding the releases, here is the link: https://github.com/Abillow1/Affordable-Quality-Slime-Project-AQSP-/releases/*
     
 **Current PCB Prototype**
 
-Note, for REV 1.0.0 and onwards the project has been fully rebuilt in Kicad.
-
-![image](https://github.com/user-attachments/assets/69aef086-3703-4a06-b99a-536c89d40adb)
-![image](https://github.com/user-attachments/assets/82a98c1e-bb0f-4c2c-85b4-a8c9a1d15ab6)
-![image](https://github.com/user-attachments/assets/d9e7665d-8584-4ec5-aa42-36e7ed87ff97)
-![image](https://github.com/user-attachments/assets/fb77119c-314f-4f7b-9270-84c22ea9e4b2)
-![image](https://github.com/user-attachments/assets/0caaff53-db2e-458f-8d8f-eea24c5ba6cc)
-
+![image](https://github.com/user-attachments/assets/d1a680cc-fd67-49c9-83de-13861678d938)
+![image](https://github.com/user-attachments/assets/254099e4-3b11-4e0e-9a7f-5794e79e857c)
+![image](https://github.com/user-attachments/assets/7fe52742-a1e7-4e25-8298-521a5613f274)
 
 # BOM (OUT OF DATE)
 
