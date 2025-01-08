@@ -34,27 +34,27 @@ The main goal of this project is to develop a as low as possible BMI270-based FB
     
 **Current PCB Prototype**
 
-![image](https://github.com/user-attachments/assets/d1a680cc-fd67-49c9-83de-13861678d938)
-![image](https://github.com/user-attachments/assets/254099e4-3b11-4e0e-9a7f-5794e79e857c)
-![image](https://github.com/user-attachments/assets/7fe52742-a1e7-4e25-8298-521a5613f274)
+![image](https://github.com/user-attachments/assets/12741c01-e1e8-4656-9d9a-8cdb1c8714e8)
+![image](https://github.com/user-attachments/assets/ad5b6b36-636c-4443-8428-7c053ddf7982)
+![image](https://github.com/user-attachments/assets/374028b6-4a9c-4c0d-b48c-de3b9e4bee67)
+![image](https://github.com/user-attachments/assets/df03f552-bde0-441e-ae3b-033dec7aac09)
+![image](https://github.com/user-attachments/assets/709e26f4-396c-4d0c-88a7-3deacb4ae595)
 
-# BOM (OUT OF DATE)
+# BOM
 
-[BOM_Affordable-Quality-Slime-Project-(AQSP)_2024-12-01.csv](https://github.com/user-attachments/files/17971755/BOM_Affordable-Quality-Slime-Project-.AQSP._2024-12-01.csv)
+[Affordable Quality Slime Project BMI270 REV 1.0.0 BOM.xlsx](https://github.com/user-attachments/files/18340837/Affordable.Quality.Slime.Project.BMI270.REV.1.0.0.BOM.xlsx)
 
 **RECCOMMENDED ITEMS (not included in BOM file)**
 
 Straps, BE SURE TO SELECT 20mm OPTION, get 300m-350m/500 trackers: https://www.aliexpress.us/item/3256804831776576.html?spm=a2g0o.cart.0.0.3af838da7LiSkD&mp=1&_gl=1*1utlh2*_gcl_aw*R0NMLjE3MzMwOTQ0NDMuQ2p3S0NBaUFqS3U2QmhBTUVpd0F4NFVzQWpaOUJMZkE0a19GMEZ5V1YyQklDZzFYNkxwUEFFcEh1TWpNQ1Y5cV9wR01paEl3N2JEVVdob0NjWjRRQXZEX0J3RQ..*_gcl_dc*R0NMLjE3MzMwOTQ0NDMuQ2p3S0NBaUFqS3U2QmhBTUVpd0F4NFVzQWpaOUJMZkE0a19GMEZ5V1YyQklDZzFYNkxwUEFFcEh1TWpNQ1Y5cV9wR01paEl3N2JEVVdob0NjWjRRQXZEX0J3RQ..*_gcl_au*MTQ1NDI1NDgyNC4xNzMzMDMxMjI2*_ga*MTc2NzI3MjcwNTIyNzExMS4xNzMzMDIzMDc1NzA1*_ga_VED1YSGNC7*MTczMzE3OTAwNC42LjEuMTczMzE3OTQ4NC41OS4wLjA.&gatewayAdapt=glo2usa
 
-Charging boards: https://www.aliexpress.us/item/3256807657111049.html?spm=a2g0o.cart.0.0.3af838da7LiSkD&mp=1&_gl=1*1utlh2*_gcl_aw*R0NMLjE3MzMwOTQ0NDMuQ2p3S0NBaUFqS3U2QmhBTUVpd0F4NFVzQWpaOUJMZkE0a19GMEZ5V1YyQklDZzFYNkxwUEFFcEh1TWpNQ1Y5cV9wR01paEl3N2JEVVdob0NjWjRRQXZEX0J3RQ..*_gcl_dc*R0NMLjE3MzMwOTQ0NDMuQ2p3S0NBaUFqS3U2QmhBTUVpd0F4NFVzQWpaOUJMZkE0a19GMEZ5V1YyQklDZzFYNkxwUEFFcEh1TWpNQ1Y5cV9wR01paEl3N2JEVVdob0NjWjRRQXZEX0J3RQ..*_gcl_au*MTQ1NDI1NDgyNC4xNzMzMDMxMjI2*_ga*MTc2NzI3MjcwNTIyNzExMS4xNzMzMDIzMDc1NzA1*_ga_VED1YSGNC7*MTczMzE3OTAwNC42LjEuMTczMzE3OTQ4NC41OS4wLjA.&gatewayAdapt=glo2usa
-
-D1 MINI; MICRO USB recommended: https://www.aliexpress.us/item/2251832779311798.html?spm=a2g0o.cart.0.0.3af838da7LiSkD&mp=1&_gl=1*y3nkhp*_gcl_aw*R0NMLjE3MzMwOTQ0NDMuQ2p3S0NBaUFqS3U2QmhBTUVpd0F4NFVzQWpaOUJMZkE0a19GMEZ5V1YyQklDZzFYNkxwUEFFcEh1TWpNQ1Y5cV9wR01paEl3N2JEVVdob0NjWjRRQXZEX0J3RQ..*_gcl_dc*R0NMLjE3MzMwOTQ0NDMuQ2p3S0NBaUFqS3U2QmhBTUVpd0F4NFVzQWpaOUJMZkE0a19GMEZ5V1YyQklDZzFYNkxwUEFFcEh1TWpNQ1Y5cV9wR01paEl3N2JEVVdob0NjWjRRQXZEX0J3RQ..*_gcl_au*MTQ1NDI1NDgyNC4xNzMzMDMxMjI2*_ga*MTc2NzI3MjcwNTIyNzExMS4xNzMzMDIzMDc1NzA1*_ga_VED1YSGNC7*MTczMzE3OTAwNC42LjEuMTczMzE3OTU2MS42MC4wLjA.&gatewayAdapt=glo2usa
-
 Battery; 18650 2000mAh, 1S pack: https://ydlbattery.com/products/3-7v-18650-battery-pack?variant=44262328664217
 
-*Choose your preferred 3D printer filament(s)*
+Mounting screws, M2x4 Requiered. https://us.misumi-ec.com/vona2/detail/221000802128/?HissuCode=00000003-M2X4-SUS&list=PageDetail
 
-*Choose your preferred superglue*
+*STL file for the screw is included in REV 1.0.0 release, I dont reccommend using in production*
+
+*Choose your preferred 3D printer filament(s), PETG or better perfered*
 
 # Hey, I want to sell this!
 
