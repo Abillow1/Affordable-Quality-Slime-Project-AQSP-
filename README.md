@@ -7,18 +7,10 @@ The main goal of this project is to develop a as low as possible BMI270-based FB
 # **Projected Specs**
 - ~20 hours play time
 - ~3 hour charge time (*projected*)
-- 69mm long, 29mm wide (might change), ~36mm thick (TBD)
+- 79 long, 33mm wide (might change), ~30mm thick (TBD)
 - USB-C charging
 - 20m wide straps
-- Weight unknown, appx. ~175g
-
-
-# Side Goals: (2/2 Achieved)
-
-- Total manufacturing cost of $4 or less **[** Manufacturing cost is as low as reasonably possible **]**
-- Easy manufacturing and small size ***Achieved***
-
-  ^^Restrictive due to 18650 battery^^
+- Weight unknown
 
 # TO-DO
 
@@ -28,7 +20,7 @@ The main goal of this project is to develop a as low as possible BMI270-based FB
 
 # Digitial Development
 
-    Functionality Test Requiered. PCB prototyped, now smaller and efficcent. Case Design prototyped.
+    Functionality Test Requiered. Case design needed.
 
 *For those who are having a hard time finding the releases, here is the link: https://github.com/Abillow1/Affordable-Quality-Slime-Project-AQSP-/releases/*
     
