@@ -40,9 +40,9 @@ The main goal of this project is to develop a as low as possible BMI270-based FB
 ![image](https://github.com/user-attachments/assets/df03f552-bde0-441e-ae3b-033dec7aac09)
 ![image](https://github.com/user-attachments/assets/709e26f4-396c-4d0c-88a7-3deacb4ae595)
 
-# BOM (OUT OF DATE)
+# BOM
 
-[Affordable Quality Slime Project BMI270 REV 1.0.0 BOM.xlsx](https://github.com/user-attachments/files/18340097/Affordable.Quality.Slime.Project.BMI270.REV.1.0.0.BOM.xlsx)
+[Affordable Quality Slime Project BMI270 REV 1.0.0 BOM.xlsx](https://github.com/user-attachments/files/18340837/Affordable.Quality.Slime.Project.BMI270.REV.1.0.0.BOM.xlsx)
 
 **RECCOMMENDED ITEMS (not included in BOM file)**
 
