@@ -1,13 +1,13 @@
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Abillow1/Affordable-Quality-Slime-Project-AQSP-/tree/main">The Affordable Quality Slime Project (AQSP)</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/Abillow1">Abillow</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
 
-# Affordable Quality Slime Project (AQSP)
+# Affordable Quality Slime Project (AQSP) EXPERIMENTAL BRANCH
 
 The main goal of this project is to develop a as low as possible BMI270-based FBT tracker. This tracker is to be sold for $7.50 or less, with straps included. This would allow most users of VR to buy FBT, and have a better experience in VR. On the seccond hand, this tracker would serve as a gateway product for users to get involved with Slime, increasing support and passively making some users gain a interest to the inner-workings of it, making select users encouraged to learn about circuitry and more.
 
 # **Projected Specs**
-- ~20 hours play time
-- ~3 hour charge time (*projected*)
-- 79 long, 33mm wide (might change), ~30mm thick (TBD)
+- ~8-12 hours play time
+- ~2 hour charge time (*projected*)
+- ~45mm long, 33mm wide (might change), ~30mm thick (TBD)
 - USB-C charging
 - 20m wide straps
 - Weight unknown
@@ -21,16 +21,14 @@ The main goal of this project is to develop a as low as possible BMI270-based FB
 # Digitial Development
 
     Functionality Test Requiered. Case design needed.
-
-*For those who are having a hard time finding the releases, here is the link: https://github.com/Abillow1/Affordable-Quality-Slime-Project-AQSP-/releases/*
     
 **Current PCB Prototype**
 
 ![image](https://github.com/user-attachments/assets/12741c01-e1e8-4656-9d9a-8cdb1c8714e8)
-![image](https://github.com/user-attachments/assets/ad5b6b36-636c-4443-8428-7c053ddf7982)
-![image](https://github.com/user-attachments/assets/374028b6-4a9c-4c0d-b48c-de3b9e4bee67)
-![image](https://github.com/user-attachments/assets/df03f552-bde0-441e-ae3b-033dec7aac09)
-![image](https://github.com/user-attachments/assets/709e26f4-396c-4d0c-88a7-3deacb4ae595)
+![image](https://github.com/user-attachments/assets/55935feb-06f1-4392-bb5f-18d183708f67)
+![image](https://github.com/user-attachments/assets/90355248-bacb-46ca-9363-58b0f06bcae8)
+![image](https://github.com/user-attachments/assets/7d587901-f778-4c6a-a59c-508226f732d2)
+
 
 # BOM
 
