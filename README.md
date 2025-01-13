@@ -17,7 +17,6 @@ The main goal of this project is to develop a as low as possible BMI270-based FB
 # TO-DO
 
 - Get PCB prototype & test
-- Design PnP LAN router -IN PROGRESS
 - Make this Readme file look nice
 
 # Digitial Development
@@ -25,6 +24,8 @@ The main goal of this project is to develop a as low as possible BMI270-based FB
     Functionality Test Requiered. Case design needed.
     
 **Current PCB Prototype**
+
+Note, the photos below are out of date and will be updated soon.
 
 ![image](https://github.com/user-attachments/assets/12741c01-e1e8-4656-9d9a-8cdb1c8714e8)
 ![image](https://github.com/user-attachments/assets/55935feb-06f1-4392-bb5f-18d183708f67)
@@ -38,9 +39,9 @@ The main goal of this project is to develop a as low as possible BMI270-based FB
 
 **RECCOMMENDED ITEMS (not included in BOM file)**
 
-Straps, BE SURE TO SELECT 20mm OPTION, get 300m-350m/500 trackers: https://www.aliexpress.us/item/3256804831776576.html?spm=a2g0o.cart.0.0.3af838da7LiSkD&mp=1&_gl=1*1utlh2*_gcl_aw*R0NMLjE3MzMwOTQ0NDMuQ2p3S0NBaUFqS3U2QmhBTUVpd0F4NFVzQWpaOUJMZkE0a19GMEZ5V1YyQklDZzFYNkxwUEFFcEh1TWpNQ1Y5cV9wR01paEl3N2JEVVdob0NjWjRRQXZEX0J3RQ..*_gcl_dc*R0NMLjE3MzMwOTQ0NDMuQ2p3S0NBaUFqS3U2QmhBTUVpd0F4NFVzQWpaOUJMZkE0a19GMEZ5V1YyQklDZzFYNkxwUEFFcEh1TWpNQ1Y5cV9wR01paEl3N2JEVVdob0NjWjRRQXZEX0J3RQ..*_gcl_au*MTQ1NDI1NDgyNC4xNzMzMDMxMjI2*_ga*MTc2NzI3MjcwNTIyNzExMS4xNzMzMDIzMDc1NzA1*_ga_VED1YSGNC7*MTczMzE3OTAwNC42LjEuMTczMzE3OTQ4NC41OS4wLjA.&gatewayAdapt=glo2usa
+Straps; TBD
 
-Battery; 18650 2000mAh, 1S pack: https://ydlbattery.com/products/3-7v-18650-battery-pack?variant=44262328664217
+Battery; TBD
 
 Mounting screws, M2x4 Requiered. https://us.misumi-ec.com/vona2/detail/221000802128/?HissuCode=00000003-M2X4-SUS&list=PageDetail
 
