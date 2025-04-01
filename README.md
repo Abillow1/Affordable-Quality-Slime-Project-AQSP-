@@ -2,6 +2,10 @@
 
 # Affordable Quality Slime Project (AQSP)
 
+> **!!!! THIS DESIGN IS DISCONTINUED AND NOT RECCOMMENDED FOR USE OF ANY KIND. !!!!**
+> 
+> **I will be remaking a design like this soon with simular goals.**
+
 The main goal of this project is to develop a as low as possible BMI270-based FBT tracker. This tracker is to be sold for $7.50 or less, with straps included. This would allow most users of VR to buy FBT, and have a better experience in VR. On the seccond hand, this tracker would serve as a gateway product for users to get involved with Slime, increasing support and passively making some users gain a interest to the inner-workings of it, making select users encouraged to learn about circuitry and more.
 
 # **Projected Specs**
